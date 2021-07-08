@@ -103,8 +103,8 @@ class XDLateralALUMNO extends StatelessWidget {
             ),
           ),
           Pinned.fromPins(
-            Pin(size: 128.0, middle: 0.4633),
-            Pin(size: 24.0, start: 98.0),
+            Pin(size: 160.0, middle: 0.4633),
+            Pin(size: 64.0, start: 98.0),
             child: Text(
               'Emiliano Muñoz',
               style: TextStyle(
@@ -112,7 +112,7 @@ class XDLateralALUMNO extends StatelessWidget {
                 fontSize: 18,
                 color: const Color(0xff5b5b5b),
               ),
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
             ),
           ),
           Pinned.fromPins(
@@ -219,7 +219,7 @@ class XDLateralALUMNO extends StatelessWidget {
                     ),
                   ),
                   Pinned.fromPins(
-                    Pin(size: 33.0, middle: 0.5015),
+                    Pin(size: 83.0, middle: 0.5015),
                     Pin(size: 19.0, middle: 0.5172),
                     child: Text(
                       'Inicio',
@@ -295,7 +295,7 @@ class XDLateralALUMNO extends StatelessWidget {
                     ),
                   ),
                   Pinned.fromPins(
-                    Pin(size: 75.0, middle: 0.5017),
+                    Pin(size: 125.0, middle: 0.5017),
                     Pin(size: 19.0, middle: 0.5172),
                     child: Text(
                       'Mis Pedidos',
@@ -345,7 +345,7 @@ class XDLateralALUMNO extends StatelessWidget {
                   ),
                 ),
                 Pinned.fromPins(
-                  Pin(size: 44.0, middle: 0.5),
+                  Pin(size: 94.0, middle: 0.5),
                   Pin(size: 19.0, middle: 0.5172),
                   child: Text(
                     'Cuenta',
@@ -392,7 +392,7 @@ class XDLateralALUMNO extends StatelessWidget {
                     ),
                   ),
                   Pinned.fromPins(
-                    Pin(size: 44.0, middle: 0.5),
+                    Pin(size: 94.0, middle: 0.5),
                     Pin(size: 19.0, middle: 0.5172),
                     child: Text(
                       'Cuenta',
@@ -451,7 +451,7 @@ class XDLateralALUMNO extends StatelessWidget {
                     ),
                   ),
                   Pinned.fromPins(
-                    Pin(size: 74.0, middle: 0.5),
+                    Pin(size: 124.0, middle: 0.5),
                     Pin(size: 19.0, middle: 0.5172),
                     child: Text(
                       'Información',

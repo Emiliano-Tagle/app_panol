@@ -213,10 +213,10 @@ class XDRegistro extends StatelessWidget {
                   ),
                 ),
                 Pinned.fromPins(
-                  Pin(size: 80.0, start: 24.0),
+                  Pin(size: 124.0, start: 24.0),
                   Pin(size: 21.0, middle: 0.5),
                   child: Text(
-                    'Contraseña',
+                    'Confirmar Contraseña',
                     style: TextStyle(
                       fontFamily: 'Segoe UI',
                       fontSize: 16,
